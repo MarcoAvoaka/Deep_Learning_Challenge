@@ -16,10 +16,16 @@ Report
  
 
 By doing so I achieved an accuracy of 72.88%
+
+![Image](https://github.com/MarcoAvoaka/Deep_Learning_Challenge/blob/main/images/Accuracy%201.png)
  
 
 •	Unfortunately, I was not able to reach the target model performance of 75%. In the second attempt I added another hidden layer with a "relu” activation while maintaining the number of nodes about the same but was only able to achieve 73.67% accuracy 
 
+![Image](https://github.com/MarcoAvoaka/Deep_Learning_Challenge/blob/main/images/Accuracy%202.png)
+
 •	In the 3rd attempt I updated the first hidden layer with a different unit: 70; second hidden layer: 60 and the output layer remained 1
+
+![Image](https://github.com/MarcoAvoaka/Deep_Learning_Challenge/blob/main/images/Accuracy%203.png)
 
 After the 3 attempts I will keep making some changes to see how best I can get to an optimized model
